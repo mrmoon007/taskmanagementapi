@@ -9,7 +9,7 @@ class UserController extends Controller
 {
     use ResponseTrait;
     /**
-     * Add a new pet to the store.
+     * Get all users.
      *
      * @OA\Get(
      *     path="/api/user",

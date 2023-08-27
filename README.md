@@ -6,7 +6,7 @@
 
 ## Features Implemented
 
-- [x] Awesome carousel by swiper-js on the hero section
+- [x] Install swagger and configuration
 - [x] Add to cart
 - [x] Add to favorite / wishlist
 - [x] Quick view

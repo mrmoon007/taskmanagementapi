@@ -31,10 +31,8 @@
 
 ## Technology used:
 
-- React.js + TypeScript
-- Redux toolkit
-- Rtk Query
-- MUI (Material UI) for bulding UI
+- Laravel
+- Swagger 
 
 ## 🔐 Admin accessiblity
 

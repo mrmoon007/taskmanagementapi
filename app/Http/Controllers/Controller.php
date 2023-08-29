@@ -14,10 +14,10 @@ use Illuminate\Routing\Controller as BaseController;
  *              "url": "https://via.placeholder.com/190x90.png?text=L5-Swagger"
  *          }
  *      },
- *      title="L5 OpenApi",
- *      description="L5 Swagger OpenApi description",
+ *      title="Task management api",
+ *      description="This is learning Swagger api documentation,
  *      @OA\Contact(
- *          email="darius@matulionis.lt"
+ *          email="Md. Mostafijur Rahman"
  *      ),
  *     @OA\License(
  *         name="Apache 2.0",

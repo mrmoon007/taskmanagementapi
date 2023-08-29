@@ -21,7 +21,7 @@ class UserController extends Controller
      *     ),
      * )
      */
-    public function createUser()
+    public function index()
     {
         return $this->successResponse([]);
     }
